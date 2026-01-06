@@ -92,13 +92,3 @@ Please ensure that dataset paths and model paths are correctly configured
 
 For exact reproducibility, we recommend using the same hyperparameter settings as described in the paper
 
-5. Citation
-
-If you find this code useful for your research, please consider citing our paper.
-
-@article{CSTGAN,
-  title={...},
-  author={...},
-  journal={...},
-  year={...}
-}
