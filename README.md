@@ -68,6 +68,7 @@ https://pan.baidu.com/s/1S9HU2lCgJmcMaenbQLroDQ?pwd=82g9
 Modify the configuration in main.py as follows:
 
 is_Train = False
+
 trained_model_path = "path/to/trained_model.pth"
 
 
