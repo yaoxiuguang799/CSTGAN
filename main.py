@@ -53,5 +53,5 @@ if __name__ == '__main__':
     acc_metrics = np.array(acc_metrics)
     metrics_path = os.path.join(out_dir, f"test_CSTGAN_metrics.csv")
     fmt = ["%.4f", "%.4f", "%.4f", "%.4f", "%.4f", "%.4f"]
-    np.savetxt(metrics_path,acc_metrics,delimiter=",",header="ClearRatio,R,Bias,MAE,RMSE,MRE",fmt=fmt)
+    np.savetxt(metrics_path,acc_metrics,delimiter=",",header="Missing Ratio,R,Bias,MAE,RMSE,MRE",fmt=fmt)
     print('finish!!!')
