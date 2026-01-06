@@ -76,6 +76,9 @@ trained_model_path can be set to a model trained by yourself
 
 Alternatively, you may use the pre-trained model provided by the authors
 
+Dataset download link:
+https://pan.baidu.com/s/1S9HU2lCgJmcMaenbQLroDQ?pwd=82g9
+
 Run the evaluation:
 
 python main.py
